@@ -12,4 +12,4 @@ TCP 是通过下面几个特性保证数据传输的可靠性：
 * 拥塞控制
 
   有问必有答 = 确认机制；如果没反应，发送端会认为发送失败，会重发。
-
+ ![tcpip](https://github.com/BinWayne/interview/blob/main/media/tcp.png)
