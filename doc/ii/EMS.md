@@ -6,7 +6,7 @@
 #### 系统介绍
 ---
 能源管理系统采用分层分布式系统体系结构，对建筑的电力、燃气、水等各分类能耗数据进行采集、处理，并分析建筑能耗状况，实现建筑节能应用等
-![tcpip](https://github.com/BinWayne/interview/blob/main/media/ems.png)
+![tcpip](https://github.com/BinWayne/interview/blob/main/media/ems.jpeg)
 
 
 #### 能源管理系统架构
